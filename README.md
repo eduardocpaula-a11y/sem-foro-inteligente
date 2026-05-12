@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 testando commit
+=======
+- Nome do projeto: Fast Track
+- Nome do desenvolvedor: Eduardo Castilho
+- Objetivo do projeto: Desenvolver um semáforo inteligente em C que se adapta ao fluxo de veículos e pedestres, simulando um controle de trânsito mais eficiente.
+- Linguagem utilizada: Linguagem C
+- Descrição resumida do funcionamento: O sistema funciona em ciclos, recebendo dados de veículos e pedestres e ajustando o tempo dos sinais (verde, amarelo e vermelho) automaticamente.
+- Como executar o programa, quando houver código: Compilar o arquivo em C (ex: gcc main.c -o programa) e executar no terminal (./programa no Linux ou programa.exe no Windows).
+>>>>>>> f7f4c8bb4318559279c8e5597ad7eef78ae906ee
